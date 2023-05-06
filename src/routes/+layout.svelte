@@ -3,6 +3,8 @@
 	// export let data: LayoutData;
 
 	import '../app.scss';
+	// import 'bootstrap';
+	
 </script>
 
 <slot />
